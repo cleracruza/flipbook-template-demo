@@ -1,0 +1,9 @@
+product-id: 921
+comment: Flipbook Demo
+media-path: sounds/%s
+welcome: title
+scripts:
+  STOP: P(STOP)
+  title: P(title)
+  page1: P(page1)
+  page2: P(page2)
