@@ -8,7 +8,7 @@ Template for simple image flipbooks with [ttbox](https://github.com/cleracruza/t
 ## Installation
 
 * Install [`tttool`](https://github.com/entropia/tip-toi-reveng)
-* Install the requirements for [`ttbox`](https://github.com/entropia/tip-toi-reveng)
+* Install the requirements for [`ttbox`](https://github.com/cleracruza/ttbox)
 * Clone this repository and make sure to init the submodules:
 ```
 git clone --recursive https://github.com/cleracruza/flipbook-template.git
